@@ -9,3 +9,5 @@ Create a simple AI model that understands the sentiment of sentences.
 Python
 Machine Learning
 Scikit-learn
+## Summary
+This project uses a machine learning model to predict the sentiment of user-provided text, classifying it as either positive or negative.
